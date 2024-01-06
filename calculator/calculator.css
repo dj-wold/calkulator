@@ -1,0 +1,172 @@
+.center{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    width: 320px;
+    height: 531px;
+    margin-top: -268px;
+    margin-left: -163px;
+}
+
+button {
+    position: absolute;
+    width: 76px;
+    height: 51px;
+}
+
+button:hover {
+    border: 1px solid #948181;
+}
+
+/*первоя строка кнопак */
+
+button#id_pl_mi {
+    margin-top: 477px;
+    margin-left: -316px;
+    background-color:white;
+}
+
+button#id0 {
+    margin-top: 477px;
+    margin-left: -237px;
+    background-color:white;
+}
+
+button#id_zap {
+    margin-top: 477px;
+    margin-left: -158px;
+    background-color:white;
+}
+
+button#id_ravno {
+    margin-top: 477px;
+    margin-left: -80px;
+    background-color: rgb(32, 32, 255);
+    color: white
+}
+
+/* вторая строка кнопак */
+
+button#id1 {
+    margin-top: 424px;
+    margin-left: -316px;
+    background-color:white;
+}
+
+button#id2 {
+    margin-top: 424px;
+    margin-left: -237px;
+    background-color:white;
+}
+
+button#id3  {
+    margin-top: 424px;
+    margin-left: -158px;
+    background-color:white;
+}
+
+button#id_plus  {
+    margin-top: 424px;
+    margin-left: -80px;
+}
+
+/* третья строка кнопак */
+
+button#id4 {
+    margin-top: 371px;
+    margin-left: -316px;
+    background-color:white;
+}
+
+button#id5  {
+    margin-top: 371px;
+    margin-left: -237px;
+    background-color:white;
+}
+button#id6 {
+    margin-top: 371px;
+    margin-left: -158px;
+    background-color:white;
+}
+
+button#id_minus {
+    margin-top: 371px;
+    margin-left: -80px;
+}
+
+/* четвертая строка кнопак */
+
+button#id7 {
+    margin-top: 318px;
+    margin-left: -316px;
+    background-color:white;
+}
+
+button#id8 {
+    margin-top: 318px;
+    margin-left: -237px;
+    background-color:white;
+}
+
+button#id9 {
+    margin-top: 318px;
+    margin-left: -158px;
+    background-color:white;
+}
+
+button#id_umno {
+    margin-top: 318px;
+    margin-left: -80px;
+}
+
+/* пятая строка кнопак */
+
+button#id_sqrt {
+    margin-top: 265px;
+    margin-left: -158px;
+}
+
+button#id_square {
+    margin-top: 265px;
+    margin-left: -316px;
+}
+
+button#id_one_x  {
+    margin-top: 265px;
+    margin-left: -237px;
+}
+
+button#id_del {
+    margin-top: 265px;
+    margin-left: -80px;
+}
+
+/* шестая строка кнопак */
+
+button#iD_CE  {
+    margin-top: 212px;
+    margin-left: -237px;
+}
+
+button#id_c {
+    margin-top: 212px;
+    margin-left: -158px;
+}
+
+button#id_proc  {
+    margin-top: 212px;
+    margin-left: -316px;
+}
+
+button#id_del_last  {
+    margin-top: 212px;
+    margin-left: -80px;
+}
+
+#rezult {
+    position: absolute;
+    margin-top: -409px;
+    margin-left: 286px;
+    font-size: 42px;
+    font-family: sans-serif;
+}
